@@ -16,7 +16,7 @@ The Good Reading Bookstore REST API is designed to manage the operations of the 
 ## Features
 
 - **Books Management**: Add, retrieve, update, and delete book records.
-- **Reviews and Ratings**: Add, retrieve, update, and delete reviews and ratings for books.
+- **Reviews and Ratings**: Add and delete reviews and ratings for books.
 - **Wishlist Management**: Manage user wishlists, including adding and removing books.
 - **Inventory Management**: Update inventory quantities for books.
 - **Dynamic Queries**: Execute dynamic SQL queries based on user input.
